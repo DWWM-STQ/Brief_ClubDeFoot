@@ -13,3 +13,10 @@ Front :
 * Inscription
 * CGU
 
+Dashboard :
+* Gestion des images
+* Résultats
+* Calendrier des matchs
+* Inscription
+  
+
