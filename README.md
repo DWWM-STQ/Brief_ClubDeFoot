@@ -6,4 +6,10 @@ Auteur : Didier ROLLAND
 ### Gestion d'un club de foot
 Front :
 * Accueil
+* Images des matchs
+* Résultats
+* Calendrier
+* Contact
+* Inscription
+* CGU
 
