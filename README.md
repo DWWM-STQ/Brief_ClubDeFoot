@@ -1,5 +1,5 @@
 # Gestion d'un club de foot
- [ECF-PHP](./profile/Doc/ECF-PHP.pdf)&nbsp;&nbsp; 
+ [ECF-PHP](./profile/Doc/club-foot.pdf)&nbsp;&nbsp; 
 Auteur : Didier ROLLAND <br>
 Binôme : Alexis & Mohamad
 
