@@ -1,4 +1,4 @@
-# [Gestion d'un club de foot](./profile/Doc/club-foot.pdf)&nbsp;&nbsp; 
+# [Gestion d'un club de foot](./profile/Doc/club-foot.pdf)
 Auteur : Didier ROLLAND <br>
 Binôme : Alexis & Mohamad
 
